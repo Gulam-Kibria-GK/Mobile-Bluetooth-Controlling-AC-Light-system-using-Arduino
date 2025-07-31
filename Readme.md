@@ -83,7 +83,7 @@ To run this project, you’ll need:
 Watch the demo video to see the system in action:
 
 - [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br><br>
-<div align="center">
+<div>
   <a href="https://www.youtube.com/watch?v=dhyj6yaYwlc" target="_blank">
     <img src="https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg" alt="Mobile (Bluetooth) Controlled AC Light System" width="350" height="230" />
   </a>
