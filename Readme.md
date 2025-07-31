@@ -2,8 +2,6 @@
 
 Control your home appliances like lights and sockets using a smartphone over Bluetooth. This smart home project leverages Arduino and relay modules to wirelessly switch AC devices on or off using an Android phone.
 
----
-
 ## 🧠 Overview
 
 This project demonstrates how to:
@@ -12,8 +10,6 @@ This project demonstrates how to:
 - Control **multiple AC appliances** via a **4/8-channel 5V relay module**
 - Use a **Bluetooth terminal app** on Android to send on/off commands
 - Safely switch **220V/120V AC devices** using low-voltage Arduino signals
-
----
 
 ## 📋 About the Project
 
@@ -28,15 +24,11 @@ Each relay controls one AC load (like a bulb). The commands are simple character
 
 This system is ideal for DIY home automation beginners.
 
----
-
 ## 📁 Files
 
 1. [`bluetooth_relay_control.ino`](bluetooth_relay_control.ino) – Arduino sketch for Bluetooth-controlled relay system
 2. [`circuit.jpeg`](circuit-1536x960.jpeg) – Hand-drawn circuit diagram
 3. [`README.md`](README.md) – Project documentation
-
----
 
 ## 📦 Dependencies
 
@@ -51,8 +43,6 @@ To run this project, you’ll need:
 - **Jumper Wires**
 - **AC Load** – light bulbs, sockets, etc.
 
----
-
 ## 📷 Circuit Diagram
 
 ![Circuit Diagram](circuit.jpeg)
@@ -61,8 +51,6 @@ To run this project, you’ll need:
 - Middle: Arduino UNO
 - Right: 4-Channel Relay with bulb/socket connected
 - Shared GND and power between modules
-
----
 
 ## ▶️ How to Use
 
@@ -76,8 +64,6 @@ To run this project, you’ll need:
    - `b`, `B`, `c`, `C` ... for other relays
    - End each command with `#`
 
----
-
 ## ⚠️ Safety Note
 
 > **Warning**: Working with 220V/120V AC is dangerous. Always take safety precautions:
@@ -86,19 +72,14 @@ To run this project, you’ll need:
 > - Use insulated wires and protective cases
 > - If unsure, ask a qualified electrician to help
 
----
-
 ## 📚 Additional Resources
 
 - [Arduino Official Documentation](https://www.arduino.cc/en/Guide/HomePage)
 - [HC-05 Bluetooth Module Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-bluetooth-control-leds-hc-05/)
 - [Relay Module Guide](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
 
-- [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)  
-  <br>  
+- [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br><br>
   [![Mobile (Bluetooth) Controlled AC Light System](https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg)](https://www.youtube.com/watch?v=dhyj6yaYwlc)
-
----
 
 ## Author
 
