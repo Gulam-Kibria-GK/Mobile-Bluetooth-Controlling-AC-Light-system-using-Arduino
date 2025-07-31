@@ -78,15 +78,16 @@ To run this project, you’ll need:
 - [HC-05 Bluetooth Module Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-bluetooth-control-leds-hc-05/)
 - [Relay Module Guide](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
 
-- [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br><br>
-  [![Mobile (Bluetooth) Controlled AC Light System](https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg)](https://www.youtube.com/watch?v=dhyj6yaYwlc)
-
 ## ▶️ Project Trailer
 
 Watch the demo video to see the system in action:
 
 - [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br><br>
-  [![Mobile (Bluetooth) Controlled AC Light System](https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg)](https://www.youtube.com/watch?v=dhyj6yaYwlc)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dhyj6yaYwlc" target="_blank">
+    <img src="https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg" alt="Mobile (Bluetooth) Controlled AC Light System" width="800" height="450" />
+  </a>
+</div>
 
 ## Author
 
