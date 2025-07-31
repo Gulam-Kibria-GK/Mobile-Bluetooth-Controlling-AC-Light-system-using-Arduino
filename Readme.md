@@ -32,13 +32,9 @@ This system is ideal for DIY home automation beginners.
 
 ## 📁 Files
 
-| File Name                     | Description                                  |
-| ----------------------------- | -------------------------------------------- |
-| `bluetooth_relay_control.ino` | Arduino code to control relays via Bluetooth |
-| `circuit-1536x960.jpeg`       | Hand-drawn circuit diagram of the project    |
-| `README.md`                   | Project documentation                        |
-
-> 🔧 **Note**: Code is not included here. You’ll find it in the `.ino` file.
+1. [`bluetooth_relay_control.ino`](bluetooth_relay_control.ino) – Arduino sketch for Bluetooth-controlled relay system
+2. [`circuit-1536x960.jpeg`](circuit-1536x960.jpeg) – Hand-drawn circuit diagram
+3. [`README.md`](README.md) – Project documentation
 
 ---
 
@@ -100,4 +96,9 @@ To run this project, you’ll need:
 
 ---
 
-## 📧 Contact
+## Author
+
+Gulam Kibria Chowdhury<br>
+Software Developer || Competitive Programmer<br>
+Sylhet, Bangladesh<br>
+Gmail: gkchowdhury101@gmail.com<br>
