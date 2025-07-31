@@ -1,4 +1,4 @@
-# 🔌 Mobile (Bluetooth) Controlled AC Light System using Arduino
+# 🔌 Mobile (Bluetooth) Controlled AC Light System
 
 Control your home appliances like lights and sockets using a smartphone over Bluetooth. This smart home project leverages Arduino and relay modules to wirelessly switch AC devices on or off using an Android phone.
 
@@ -85,7 +85,7 @@ Watch the demo video to see the system in action:
 - [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br><br>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dhyj6yaYwlc" target="_blank">
-    <img src="https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg" alt="Mobile (Bluetooth) Controlled AC Light System" width="800" height="450" />
+    <img src="https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg" alt="Mobile (Bluetooth) Controlled AC Light System" width="350" height="230" />
   </a>
 </div>
 
