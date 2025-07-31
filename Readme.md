@@ -64,6 +64,17 @@ To run this project, you’ll need:
    - `b`, `B`, `c`, `C` ... for other relays
    - End each command with `#`
 
+## ▶️ Project Trailer
+
+Watch the demo video to see the system in action:
+
+- [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br>
+<div>
+  <a href="https://www.youtube.com/watch?v=dhyj6yaYwlc" target="_blank">
+    <img src="https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg" alt="Mobile (Bluetooth) Controlled AC Light System" width="350" height="230" />
+  </a>
+</div>
+
 ## ⚠️ Safety Note
 
 > **Warning**: Working with 220V/120V AC is dangerous. Always take safety precautions:
@@ -77,17 +88,6 @@ To run this project, you’ll need:
 - [Arduino Official Documentation](https://www.arduino.cc/en/Guide/HomePage)
 - [HC-05 Bluetooth Module Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-bluetooth-control-leds-hc-05/)
 - [Relay Module Guide](https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/)
-
-## ▶️ Project Trailer
-
-Watch the demo video to see the system in action:
-
-- [Project Trailer](https://www.youtube.com/watch?v=dhyj6yaYwlc)<br><br>
-<div>
-  <a href="https://www.youtube.com/watch?v=dhyj6yaYwlc" target="_blank">
-    <img src="https://img.youtube.com/vi/dhyj6yaYwlc/2.jpg" alt="Mobile (Bluetooth) Controlled AC Light System" width="350" height="230" />
-  </a>
-</div>
 
 ## Author
 
